@@ -30,20 +30,7 @@
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/c17hawke/" target="_blank"><br>@c17hawke!</a> on Instagram</p>
 
 <hr> -->
-
-#### You can also find me on: 
-
-[<img align="left" alt="007kakashi | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="007kakashi | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="007kakashi | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="007kakashi | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="007kakashi | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
-                                                                                                                                                                       
-
-<br>
-
-<hr>
-
+                                                                                            
 [linkedin]: https://www.linkedin.com/in/upendra-gosavi-4068a2195/
 
 
