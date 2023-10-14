@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Upendra Gosavi</h1>
 <h3 align="center">"Passionate Data Scientist | Uncovering Insights through Data & Algorithms"</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=007kakashi&label=Profile%20views&color=0e75b6&style=flat" alt="007kakashi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=007kakashi" alt="007kakashi" /></a> </p>
 
 - 🔭 I’m currently working on [Facial Emotion Recognition](https://github.com/007kakashi/Facial_Emotion_Recognition_End2End.git)
 
@@ -32,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=007kakashi&show_icons=true&locale=en&layout=compact" alt="007kakashi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=007kakashi&show_icons=true&locale=en" alt="007kakashi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007kakashi&" alt="007kakashi" /></p>
