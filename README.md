@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/ai-machine-learning-template-vector-disruptive-technology-blog-banner_53876-112230.jpg?size=626&ext=jpg)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhgNs2psY6QRfUxgBo5px3MGUjNF1Z9Ttzw&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Upendra Gosavi</h1>
 <h3 align="center">"Passionate Data Scientist | Uncovering Insights through Data & Algorithms"</h3>
