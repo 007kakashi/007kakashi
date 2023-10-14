@@ -34,6 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007kakashi&" alt="007kakashi" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=007kakashi&show_icons=true&locale=en&layout=compact" alt="007kakashi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=007kakashi&show_icons=true&locale=en" alt="007kakashi" /></p>
