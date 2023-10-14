@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Upendra Gosavi</h1>
 <h3 align="center">"Passionate Data Scientist | Uncovering Insights through Data & Algorithms"</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=007kakashi&label=Profile%20views&color=0e75b6&style=flat" alt="007kakashi" /> </p>
 
