@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQ0dLlrUSDF5PunTUzU71Gy6d-pzlBm4u3A&usqp=CAU)
+
 
 <h1 align="center">Hi 👋, I'm Upendra Gosavi</h1>
 <h3 align="center">"Passionate Data Scientist | Uncovering Insights through Data & Algorithms"</h3>
