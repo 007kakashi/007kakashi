@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=007kakashi&label=Profile%20views&color=0e75b6&style=flat" alt="007kakashi" /> </p>
 
-- 🔭 I’m currently working on [LLM Projects](https://github.com/007kakashi/FAQ_llm.git])
+- 🔭 I’m currently working on [LLM Projects](https://github.com/007kakashi/FAQ_llm.git)
 
 - 🌱 I’m currently learning **Flask, FastAPI**
 
-- 👨‍💻 All of my projects are available at (https://007kakashi.github.io/upendra.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://007kakashi.github.io/upendra.github.io)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, and NLP**
 
