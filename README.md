@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=007kakashi&label=Profile%20views&color=0e75b6&style=flat" alt="007kakashi" /> </p>
 
-- 🔭 I’m currently working on [Facial Emotion Recognition](https://github.com/007kakashi/Facial_Emotion_Recognition_End2End.git)
+- 🔭 I’m currently working on [LLM Projects](https://github.com/007kakashi/Facial_Emotion_Recognition_End2End.git)
 
 - 🌱 I’m currently learning **Flask, FastAPI**
 
